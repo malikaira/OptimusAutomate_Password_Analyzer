@@ -18,4 +18,4 @@ Tech
 HTML · CSS · Vanilla JavaScript — no frameworks, no dependencies
 
 Live Demo
-[https://malikaira.github.io/OptimusAutomate_Password_Analyzer/](https://malikaira.github.io/OptimusAutomate_Password_Analyzer/)
+https://malikaira.github.io/OptimusAutomate_Password_Analyzer/Password_Analyzer.html
