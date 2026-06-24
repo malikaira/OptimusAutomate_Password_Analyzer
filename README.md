@@ -106,5 +106,6 @@ open Password_Analyzer.html
 
 Built for educational purposes as part of the **Optimus Automate Cybersecurity Internship** program.  
 © 2025 Optimus Automate. All rights reserved.
-Live Demo
+
+## 📄 Live Demo
 https://malikaira.github.io/OptimusAutomate_Password_Analyzer/Password_Analyzer.html
