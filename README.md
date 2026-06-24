@@ -10,7 +10,7 @@ A browser-based password strength analyzer that gives real-time feedback, detect
 
 ## 🚀 Live Demo
 
-🔗 *(paste your GitHub Pages link here after enabling it)*
+🔗 https://malikaira.github.io/OptimusAutomate_Password_Analyzer/Password_Analyzer.html
 
 ---
 
@@ -106,6 +106,3 @@ open Password_Analyzer.html
 
 Built for educational purposes as part of the **Optimus Automate Cybersecurity Internship** program.  
 © 2025 Optimus Automate. All rights reserved.
-
-## 📄 Live Demo
-https://malikaira.github.io/OptimusAutomate_Password_Analyzer/Password_Analyzer.html
