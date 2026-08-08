@@ -64,7 +64,7 @@ passguard/
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/passguard.git
+git clone https://github.com/malikaira/OptimusAutomate_Password_Analyzer.git
 
 # Open in browser — no server needed
 open Password_Analyzer.html
@@ -105,4 +105,4 @@ open Password_Analyzer.html
 ## 📄 License
 
 Built for educational purposes as part of the **Optimus Automate Cybersecurity Internship** program.  
-© 2025 Optimus Automate. All rights reserved.
+© 2026 Optimus Automate. All rights reserved.
